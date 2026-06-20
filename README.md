@@ -1,2 +1,2 @@
 # learning-journey
-My kinux , networking  and python learning journey
+My linux , networking  and python learning journey
